@@ -6,7 +6,6 @@
 
 ### 🛠️ 使用技術とツール (Languages and Tools)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,nodejs,python,docker,gcp,figma,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,nodejs,python,docker,gcp,figma,c++.heroku)](https://skillicons.dev)
 
----
 ---
